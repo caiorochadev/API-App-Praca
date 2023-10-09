@@ -1,0 +1,33 @@
+
+    {
+        "id": 1,
+        "nome": "R$ 300.000,00",
+        "tipo": "300 kWh",
+        "horario": "200cv",
+        "referencia": "30 min",
+        "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    },
+    {
+        "id": 2,
+        "nome": "R$ 300.000,00",
+        "tipo": "300 kWh",
+        "horario": "200cv",
+        "referencia": "30 min",
+        "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    },
+    {
+        "id": 3,
+        "nome": "R$ 300.000,00",
+        "tipo": "300 kWh",
+        "horario": "200cv",
+        "referencia": "30 min",
+        "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    },
+    {
+        "id": 4,
+        "nome": "R$ 300.000,00",
+        "tipo": "300 kWh",
+        "horario": "200cv",
+        "referencia": "30 min",
+        "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    }
